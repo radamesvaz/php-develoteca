@@ -1,4 +1,6 @@
 <?php
+
+    // comments
     echo "Hola php";
 
     print_r(" hola php");
